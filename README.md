@@ -498,7 +498,9 @@ streamlit run app.py
 
 - TensorFlow
 - Keras
-
+-LSTM
+-GRU
+-Transformer
 ## Explainability
 
 - SHAP
